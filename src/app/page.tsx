@@ -188,12 +188,12 @@ export default function Home() {
             <div className="donation-copy">
               <h2>Uw betrokkenheid maakt verschil.</h2>
               <p>
-                Steun Stichting Mission im Possible en draag bij aan onze
+                Steun Stiching Mission im Possible en draag bij aan onze
                 activiteiten op het gebied van gezondheid, onderwijs, natuur en
                 gemeenschapsontwikkeling.
               </p>
               <a className="button button-pink" href="#donation">
-                Doneer aan onze stichting
+                Doneer aan onze stiching
               </a>
             </div>
 
